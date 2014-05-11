@@ -265,6 +265,7 @@ DEPENDENCIES
   pg
   rails (~> 3.2.18)
   rails_12factor
+  scrypt
   sqlite3-ruby
   unicorn
 
